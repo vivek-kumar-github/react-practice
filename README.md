@@ -1,16 +1,16 @@
 # ⚛️ React Practice Project
 
-Welcome to my React learning journey! This repository is a collection of various React components where I practice core concepts like **Components**, **Props**, **State Management**, and **JSX**.
+Welcome to my React learning journey! This repository is a collection of some React components where I practiced core concepts like **Components** and **JSX**.
 
 ---
 
-## 🚀 Current Project: Netflix Clone Practice
-I am currently building a Netflix-themed registration page to master UI layout and component architecture in React.
+## 🚀 This Project: Netflix Clone Practice
+Built a Netflix-themed registration page to master UI layout and component architecture in React.
 
 ### Key Concepts Practiced:
 * **Vite Tooling:** Initialized with Vite for a fast development experience.
 * **Component Architecture:** Breaking down complex UIs into reusable functional components.
-* **JSX & Styling:** Implementing dynamic UI using JSX and modular CSS.
+* **JSX & Styling:** Implemented dynamic UI using JSX and modular CSS.
 * **ES Modules:** Mastering `import`/`export` and `export default` patterns.
 
 ---
@@ -49,4 +49,4 @@ To run this project locally, follow these steps:
 
 **Environment:** Switched from Vanilla JS templates to React-specific Vite templates.
 
-**Syntax:** Understanding the difference between Function Declarations and Arrow Function Expressions.
+**Syntax:** Understood the difference between Function Declarations and Arrow Function Expressions.
