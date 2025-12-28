@@ -1,0 +1,23 @@
+.container-fluid {
+    background-image: url("NetflixIndexComponentImage.jpg");
+    background-size: contain;
+    background-color: black;
+    height: 100vmax;
+    color: white;
+}
+
+.box {
+    background-color: rgba(0,0,0,0.6);
+    height: 100vmax;
+    width: 100vmax;
+}
+
+section {
+    height: 500px;
+}
+
+.hh1 {
+  font-weight: bold;
+  color: #fff;
+  font-size: 60px;
+}
