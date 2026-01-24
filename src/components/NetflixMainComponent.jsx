@@ -1,11 +1,10 @@
 export default function NetflixMainComponent() {
     return (
         <>
-        <div className="text-center">
-            <h1 className="hh1">Unlimited movies,</h1>
-            <h1 className="hh1">shows, and more</h1>
-            <h4>Starts at ₹149. Cancel at any time.</h4>
-        </div>
+            <div className="text-center text-white p-3">
+                <h1 className="hh1">Unlimited movies, TV shows and more</h1>
+                <h4 className="fw-normal my-3 fs-4">Watch anywhere. Cancel anytime.</h4>
+            </div>
         </>
     )
 }

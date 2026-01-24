@@ -1,23 +1,31 @@
-.container-fluid {
+.netflix-bg {
     background-image: url("NetflixIndexComponentImage.jpg");
-    background-size: contain;
-    background-color: black;
-    height: 100vmax;
-    color: white;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100%;
+    position: relative;
 }
 
 .box {
-    background-color: rgba(0,0,0,0.6);
-    height: 100vmax;
-    width: 100vmax;
-}
-
-section {
-    height: 500px;
+    background: rgba(0, 0, 0, 0.4);
+    background-image: linear-gradient(to top, rgba(0, 0, 0, 0.8) 0, rgba(0, 0, 0, 0) 60%, rgba(0, 0, 0, 0.8) 100%);
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
 }
 
 .hh1 {
-  font-weight: bold;
-  color: #fff;
-  font-size: 60px;
+    font-weight: 900;
+    color: #fff;
+    font-size: 3rem;
+    margin-bottom: 0.5rem;
+}
+
+@media (min-width: 768px) {
+    .hh1 {
+        font-size: 4rem;
+    }
 }
